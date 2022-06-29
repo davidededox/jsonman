@@ -1,500 +1,980 @@
 {
-    "prodotti": [
-          {
-              "id": "p1",
-              "title":"Pantalone palazzo con pince",
-              "price":52.5,
-              "desc": {
-                  "Materiale":"96% Polyestere 4% Elastane",
-                  "Desc":"Pantalone palazzo in tessuto comfort, con pince frontali e elastico in vita. Chiusura con zip e bottone fasciato."
-              },
-              "images":[
-                  ["55151.jpg","Arancio"],
-                  ["55152.jpg","Arancio"],
-                  ["55153.jpg","Arancio"],
-                  ["55154.jpg","Arancio"],
-                  ["55161.jpg","Turchese"],
-                  ["55160.jpg","Nero"],
-                  ["55159.jpg","Rosa Bubble"]
-  
-              ],
-              "sizes":["S","M","L"],
-              "category":["Pantaloni","Completi"]
-          },
-          {
-              "id": "p2",
-              "title":"Gilet a doppio petto",
-              "price":67.5,
-              "desc": {
-                  "Materiale":"96% Polyestere 4% Elastane",
-                  "Desc":"Gilet over con collo a rever, e chiusura a doppiopetto con bottoni fasciati. Fodera in tono."
-              },
-              "images":[
-                  ["55151.jpg","Arancio"],
-                  ["55152.jpg","Arancio"],
-                  ["55153.jpg","Arancio"],
-                  ["55154.jpg","Arancio"],
-                  ["55161.jpg","Turchese"],
-                  ["55160.jpg","Nero"],
-                  ["55159.jpg","Rosa Bubble"]
-  
-              ],
-              "sizes":["S/M","M/L"],
-              "category":["Giacche","Completi"]
-          },
-          {
-              "id": "p3",
-              "title":"Pantalone Jaquard a zampa",
-              "price":61,
-              "desc": {
-                  "Materiale":"Misto Poly-Viscosa",
-                  "Desc":"Pantalone elasticizzato in tessuto Jaquard lurex con fantasia geometrica. Vita alta con elastico e fondo ampio a zampa."
-              },
-              "images":[
-                  ["55137.jpg","Verde"],
-                  ["55138.jpg","Verde"],
-                  ["55140.jpg","Verde"],
-                  ["55141.jpg","Verde"]
-              ],
-              "sizes":["S","M","L"],
-              "category":["Pantaloni","Completi"]
-          },
-          {
-              "id": "p4",
-              "title":"Giacca Jaquard a doppiopetto",
-              "price":91,
-              "desc": {
-                  "Materiale":"Misto Poly-Viscosa",
-                  "Desc":"Giacca in tessuto Jaquard lurex con fantasia geometrica. Vestibilità over, chiusura a doppiopetto con bottoni fasciati abbinati. Fodera in tono."
-              },
-              "images":[
-                  ["55137.jpg","Verde"],
-                  ["55138.jpg","Verde"],
-                  ["55140.jpg","Verde"],
-                  ["55141.jpg","Verde"]
-              ],
-              "sizes":["S","M","L"],
-              "category":["Giacche","Completi"]
-          },
-          {
-              "id": "p5",
-              "title":"Pantalone coulotte Jaquard",
-              "price":61,
-              "desc": {
-                  "Materiale":"Misto Poly-Viscosa",
-                  "Desc":"Pantalone elasticizzato in tessuto Jaquard lurex con fantasia geometrica. Vita alta con elastico e tasche a uomo, vestibilità morbida e lunghezza alla caviglia."
-              },
-              "images":[
-                  ["55130.jpg","Fuxia"],
-                  ["55131.jpg","Fuxia"],
-                  ["55135.jpg","Fuxia"],
-                  ["55136.jpg","Fuxia"]
-              ],
-              "sizes":["S","M","L"],
-              "category":["Pantaloni","Completi"]
-          },
-          {
-              "id": "p6",
-              "title":"Giacca cropped Jaquard",
-              "price":71,
-              "desc": {
-                  "Materiale":"Misto Poly-Viscosa",
-                  "Desc":"Giacca corta in tessuto Jaquard lurex con fantasia geometrica. Manica a 3/4 e scollo con rever, chiusura con bottone fasciato abbinato. Fodera in tono."
-              },
-              "images":[
-                  ["55130.jpg","Fuxia"],
-                  ["55131.jpg","Fuxia"],
-                  ["55135.jpg","Fuxia"],
-                  ["55136.jpg","Fuxia"]
-              ],
-              "sizes":["S","M","L"],
-              "category":["Giacche","Completi"]
-          },
-          {
-              "id": "p7",
-              "title":"Pantalone flare a vita bassa",
-              "price":56,
-              "desc": {
-                  "Materiale":"100% Polyestere",
-                  "Desc":"Pantalone flare con stampa geometrica. Vita bassa con zip, gamba morbida con cucitura centrale."
-              },
-              "images":[
-                  ["55120.jpg","Verde Acqua"],
-                  ["55121.jpg","Verde Acqua"],
-                  ["55122.jpg","Verde Acqua"],
-                  ["55123.jpg","Verde Acqua"],
-                  ["55129.jpg","Panna"]
-              ],
-              "sizes":["S","M","L"],
-              "category":["Pantaloni","Completi"]
-          },
-          {
-              "id": "p8",
-              "title":"Top con bottoni fasciati",
-              "price":61,
-              "desc": {
-                  "Materiale":"100% Polyestere",
-                  "Desc":"Top svasato con stampa geometrica. Ampi spacchi laterali con chiusura con bottoni fasciati abbinati."
-              },
-              "images":[
-                  ["55120.jpg","Verde Acqua"],
-                  ["55121.jpg","Verde Acqua"],
-                  ["55122.jpg","Verde Acqua"],
-                  ["55123.jpg","Verde Acqua"],
-                  ["55129.jpg","Panna"]
-              ],
-              "sizes":["S","M","L"],
-              "category":["Top","Completi"]
-          },
-          {
-              "id": "p9",
-              "title":"Shorts a vita alta",
-              "price":36,
-              "desc": {
-                  "Materiale":"96% Polyestere 4% Elastane",
-                  "Desc":"Shorts in crepe elasticizzato. Cuciture frontali e tasche a filetto applicate. Chiusura con zip e bottone fasciato."
-              },
-              "images":[
-                  ["55111.jpg","Rosa Bubble"],
-                  ["55112.jpg","Rosa Bubble"],
-                  ["55114.jpg","Rosa Bubble"],
-                  ["55115.jpg","Rosa Bubble"],
-                  ["55116.jpg","Nero"],
-                  ["55117.jpg","Celeste"],
-                  ["55118.jpg","Bianco"],
-                  ["55119.jpg","Senape"]
-  
-              ],
-              "sizes":["S","M","L"],
-              "category":["Pantaloni"]
-          },
-          {
-              "id": "p10",
-              "title":"Gonna longuette in raso",
-              "price":31,
-              "desc": {
-                  "Materiale":"100% Polyestere",
-                  "Desc":"Gonna midi in raso satinato. Taglio in sbieco per vestibilità scivolata, a vita alta con elastico invisibile e fondo leggermente svasato."
-              },
-              "images":[
-                  ["55086.jpg","Turchese"],
-                  ["55087.jpg","Turchese"],
-                  ["55089.jpg","Turchese"],
-                  ["55094.jpg","Turchese"],
-                  ["55095.jpg","Verde"],
-                  ["55097.jpg","Ruggine"],
-                  ["55099.jpg","Lilla"],
-                  ["56100.jpg","Arancio"]
-  
-              ],
-              "sizes":["S","M","L"],
-              "category":["Gonne"]
-          },
-          {
-              "id": "p11",
-              "title":"Gonna a portafoglio stampata",
-              "price":39,
-              "desc": {
-                  "Materiale":"100% Polyestere",
-                  "Desc":"Gonna in raso satinato con stampa maculata. Chiusura a portafoglio con pieghe e bottone gioiello."
-              },
-              "images":[
-                  ["55080.jpg","Arancio"],
-                  ["55081.jpg","Arancio"],
-                  ["55084.jpg","Arancio"],
-                  ["55085.jpg","Lilla"]
-              ],
-              "sizes":["S","M","L"],
-              "category":["Gonne"]
-          },
-          {
-              "id": "p12",
-              "title":"Mini abito a doppiopetto stampato",
-              "price":61,
-              "desc": {
-                  "Materiale":"100% Polyestere",
-                  "Desc":"Abito-Giacca in raso satinato con stampa floreale. Manica lunga, chiusura a doppio petto con rever e bottoni in tono."
-              },
-              "images":[
-                  ["55074.jpg","Nero"],
-                  ["55076.jpg","Nero"],
-                  ["55077.jpg","Nero"],
-                  ["55078.jpg","Nero"],
-                  ["55079.jpg","Rosa"]
-  
-  
-              ],
-              "sizes":["S","M","L"],
-              "category":["Vestiti"]
-          },
-          {
-              "id": "p13",
-              "title":"Mini dress con cut-out",
-              "price":36,
-              "desc": {
-                  "Materiale":"60% Viscosa 37% Lurex 3% Elastane",
-                  "Desc":"Abito corto in tessuto elasticizzato con lurex. Cut-out frontale intrecciato, da legare al collo."
-              },
-              "images":[
-                  ["55062.jpg","Verde Chiaro"],
-                  ["55063.jpg","Verde Chiaro"],
-                  ["55064.jpg","Verde Chiaro"],
-                  ["55066.jpg","Lilla"],
-                  ["55067.jpg","Verde Smeraldo"],
-                  ["55069.jpg","Nero"]
-                  
-              ],
-              "sizes":["S","M","L"],
-              "category":["Vestiti"]
-          },
-          {
-              "id": "p14",
-              "title":"Top monospalla a righe",
-              "price":22.5,
-              "desc": {
-                  "Materiale":"Misto Poly-Cotone",
-                  "Desc":"Top monospalla in tessuto elasticizzato a righe con lurex. Manica a 3/4."
-              },
-              "images":[
-                  ["55053.jpg","Arancio"],
-                  ["55054.jpg","Arancio"],
-                  ["55055.jpg","Arancio"],
-                  ["55058.jpg","Arancio"],
-                  ["55059.jpg","Turchese"],
-                  ["55060.jpg","Rosa"]
-                  
-              ],
-              "sizes":["S","M","L"],
-              "category":["Top"]
-          },
-          {
-              "id": "p15",
-              "title":"Canotta con spalline incrociate",
-              "price":21,
-              "desc": {
-                  "Materiale":"Misto Poly-Cotone",
-                  "Desc":"Canotta in tessuto elasticizzato a righe con lurex. Scollo rotondo e spalline incrociate sul retro."
-              },
-              "images":[
-                  ["55047.jpg","Arancio"],
-                  ["55048.jpg","Arancio"],
-                  ["55049.jpg","Arancio"],
-                  ["55050.jpg","Turchese"],
-                  ["55051.jpg","Rosa"]
-              ],
-              "sizes":["S","M","L"],
-              "category":["Top"]
-          },
-          {
-              "id": "p16",
-              "title":"Canotta svasata in raso",
-              "price":24,
-              "desc": {
-                  "Materiale":"100% Polyestere",
-                  "Desc":"Canotta in raso satinato, leggermente svasata con spallina larga e bottoncino sul retro."
-              },
-              "images":[
-                  ["55036.jpg","Turchese"],
-                  ["55038.jpg","Turchese"],
-                  ["55039.jpg","Turchese"],
-                  ["55040.jpg","Turchese"],
-                  ["55041.jpg","Ruggine"],
-                  ["55042.jpg","Lilla"],
-                  ["55044.jpg","Arancio"],
-                  ["55045.jpg","Verde"]
-                  
-  
-              ],
-              "sizes":["S","M","L"],
-              "category":["Top"]
-          },
-          {
-              "id": "p17",
-              "title":"Abito con cut-out manica lunga",
-              "price":42.5,
-              "desc": {
-                  "Materiale":"100% Polyestere",
-                  "Desc":"Mini abito in raso opaco, scollo a V intrecciato e manica lunga. Cut-out frontale."
-              },
-              "images":[
-                  ["55025.jpg","Nero"],
-                  ["55026.jpg","Nero"],
-                  ["55028.jpg","Nero"],
-                  ["55029.jpg","Lime"],
-                  ["55031.jpg","Rosa Bubble"],
-                  ["55034.jpg","Bianco"]
-              ],
-              "sizes":["S","M","L"],
-              "category":["Vestiti"]
-          },
-          {
-              "id": "p18",
-              "title":"Body incrociato con lurex",
-              "price":49,
-              "desc": {
-                  "Materiale":"60% Viscosa 37% Lurex 3% Elastane",
-                  "Desc":"Mini abito in raso opaco, scollo a V intrecciato e manica lunga. Cut-out frontale."
-              },
-              "images":[
-                  ["55011.jpg","Verde Smeraldo"],
-                  ["55012.jpg","Verde Smeraldo"],
-                  ["55013.jpg","Verde Smeraldo"],
-                  ["55015.jpg","Verde Smeraldo"],
-                  ["55019.jpg","Lilla"],
-                  ["55021.jpg","Verde Chiaro"],
-                  ["55022.jpg","Nero"]
-  
-              ],
-              "sizes":["S","M","L"],
-              "category":["Top"]
-          },
-          {
-              "id": "p19",
-              "title":"Camicia con manica plissè",
-              "price":42.5,
-              "desc": {
-                  "Materiale":"100% Polyestere",
-                  "Desc":"Camicetta con scollo a V, manica ampia plissettata e sciarpa al collo da annodare. Chiusura frontale con bottoncini in tono."
-              },
-              "images":[
-                  ["54998.jpg","Lime"],
-                  ["55000.jpg","Lime"],
-                  ["55001.jpg","Lime"],
-                  ["55003.jpg","Lime"],
-                  ["55006.jpg","Agata"],
-                  ["55007.jpg","Bianco"],
-                  ["55010.jpg","Fuxia"]
-  
-  
-              ],
-              "sizes":["S","M","L"],
-              "category":["Top"]
-          },
-          {
-              "id": "p20",
-              "title":"T-Shirt cropped con arriccio",
-              "price":26,
-              "desc": {
-                  "Materiale":"Misto Poly-Cotone",
-                  "Desc":"T-shirt paricollo in tessuto elasticizzato a righe con lurex. Arriccio frontale."
-              },
-              "images":[
-                  ["54991.jpg","Arancio"],
-                  ["54992.jpg","Arancio"],
-                  ["54993.jpg","Arancio"],
-                  ["54994.jpg","Arancio"],
-                  ["54995.jpg","Turchese"],
-                  ["54996.jpg","Rosa"]          
-  
-  
-              ],
-              "sizes":["S","M","L"],
-              "category":["Top"]
-          },
-          {
-              "id": "p21",
-              "title":"Camicetta cropped arricciata",
-              "price":41,
-              "desc": {
-                  "Materiale":"98% Cotone 2% Elastane",
-                  "Desc":"Camicia corta in cotone comfort, con colletto classico, abbottonatura arricciata e bottoncini in tono."
-              },
-              "images":[
-                  ["54949.jpg","Turchese"],
-                  ["54951.jpg","Turchese"],
-                  ["54954.jpg","Turchese"],
-                  ["54956.jpg","Lime"],
-                  ["54958.jpg","Fuxia"],
-                  ["54959.jpg","Lilla"],
-                  ["54960.jpg","Arancio"]
-              ],
-              "sizes":["S","M","L"],
-              "category":["Top"]
-          },
-          {
-              "id": "p22",
-              "title":"Top all'Americana",
-              "price":26,
-              "desc": {
-                  "Materiale":"100% Polyestere",
-                  "Desc":"Crop top in raso satinato. Scollo a V da annodare al collo con schiena scoperta. Arriccio frontale con coulisse e fiocco."
-              },
-              "images":[
-                  ["54933.jpg","Arancio"],
-                  ["54935.jpg","Arancio"],
-                  ["54936.jpg","Arancio"],
-                  ["54938.jpg","Arancio"],
-                  ["54940.jpg","Ruggine"],
-                  ["54943.jpg","Lilla"],
-                  ["54945.jpg","Verde"],
-                  ["54946.jpg","Turchese"]
-  
-              ],
-              "sizes":["S","M","L"],
-              "category":["Top"]
-          },
-          {
-              "id": "p23",
-              "title":"Top cropped con scollo V",
-              "price":32.5,
-              "desc": {
-                  "Materiale":"60% Viscosa 37% Lurex 3% Elastane",
-                  "Desc":"Crop top in tessuto elasticizzato con lurex. Profondo scollo a V arricciato, con occhiello centrale e manica lunga."
-              },
-              "images":[
-                  ["54922.jpg","Verde Chiaro"],
-                  ["54923.jpg","Verde Chiaro"],
-                  ["54924.jpg","Verde Chiaro"],
-                  ["54926.jpg","Verde Chiaro"],
-                  ["54927.jpg","Verde Smeraldo"],
-                  ["54928.jpg","Lilla"],
-                  ["54930.jpg","Nero"]
-   
-              ],
-              "sizes":["S","M","L"],
-              "category":["Top"]
-          },
-          {
-              "id": "p24",
-              "title":"Shorts con bottone gioiello",
-              "price":46,
-              "desc": {
-                  "Materiale":"100% Cotone",
-                  "Desc":"Shorts a vita alta in tessuto con trama intrecciata. Tasche  a uomo, pince frontali e bottone gioiello."
-              },
-              "images":[
-                  ["55169.jpg","Rosa Bubble"],
-                  ["55170.jpg","Rosa Bubble"],
-                  ["55171.jpg","Rosa Bubble"],
-                  ["55172.jpg","Rosa Bubble"],
-                  ["55173.jpg","Turchese"],
-                  ["55174.jpg","Arancio"]
-  
-   
-              ],
-              "sizes":["S","M","L"],
-              "category":["Pantaloni","Completi"]
-          },
-          {
-              "id": "p25",
-              "title":"Giacca cropped con bottoni gioiello",
-              "price":57.5,
-              "desc": {
-                  "Materiale":"100% Cotone",
-                  "Desc":"Giacca corta in tessuto con trama intrecciata. Scollo profondo, manica lunga e chiusura a portafoglio con bottoni gioiello."
-              },
-              "images":[
-                  ["55169.jpg","Rosa Bubble"],
-                  ["55170.jpg","Rosa Bubble"],
-                  ["55171.jpg","Rosa Bubble"],
-                  ["55172.jpg","Rosa Bubble"],
-                  ["55173.jpg","Turchese"],
-                  ["55174.jpg","Arancio"]
-  
-   
-              ],
-              "sizes":["S","M","L"],
-              "category":["Giacche","Completi"]
-          }
-] 
+  "prodotti": [
+    {
+      "id": "p1",
+      "title": "Pantalone palazzo con pince",
+      "price": 52.5,
+      "desc": {
+        "Materiale": "96% Polyestere 4% Elastane",
+        "Desc": "Pantalone palazzo in tessuto comfort, con pince frontali e elastico in vita. Chiusura con zip e bottone fasciato."
+      },
+      "images": [
+        ["55151.jpg", "Arancio"],
+        ["55152.jpg", "Arancio"],
+        ["55153.jpg", "Arancio"],
+        ["55154.jpg", "Arancio"],
+        ["55161.jpg", "Turchese"],
+        ["55160.jpg", "Nero"],
+        ["55159.jpg", "Rosa Bubble"]
+      ],
+      "sizes": ["S", "M", "L"],
+      "category": ["Pantaloni", "Completi"]
+    },
+    {
+      "id": "p2",
+      "title": "Gilet a doppio petto",
+      "price": 67.5,
+      "desc": {
+        "Materiale": "96% Polyestere 4% Elastane",
+        "Desc": "Gilet over con collo a rever, e chiusura a doppiopetto con bottoni fasciati. Fodera in tono."
+      },
+      "images": [
+        ["55151.jpg", "Arancio"],
+        ["55152.jpg", "Arancio"],
+        ["55153.jpg", "Arancio"],
+        ["55154.jpg", "Arancio"],
+        ["55161.jpg", "Turchese"],
+        ["55160.jpg", "Nero"],
+        ["55159.jpg", "Rosa Bubble"]
+      ],
+      "sizes": ["S/M", "M/L"],
+      "category": ["Giacche", "Completi"]
+    },
+    {
+      "id": "p3",
+      "title": "Pantalone Jaquard a zampa",
+      "price": 61,
+      "desc": {
+        "Materiale": "Misto Poly-Viscosa",
+        "Desc": "Pantalone elasticizzato in tessuto Jaquard lurex con fantasia geometrica. Vita alta con elastico e fondo ampio a zampa."
+      },
+      "images": [
+        ["55141.jpg", "Verde"],
+
+        ["55138.jpg", "Verde"],
+        ["55140.jpg", "Verde"],
+        ["55137.jpg", "Verde"]
+      ],
+      "sizes": ["S", "M", "L"],
+      "category": ["Pantaloni", "Completi"]
+    },
+    {
+      "id": "p4",
+      "title": "Giacca Jaquard a doppiopetto",
+      "price": 91,
+      "desc": {
+        "Materiale": "Misto Poly-Viscosa",
+        "Desc": "Giacca in tessuto Jaquard lurex con fantasia geometrica. Vestibilità over, chiusura a doppiopetto con bottoni fasciati abbinati. Fodera in tono."
+      },
+      "images": [
+        ["55137.jpg", "Verde"],
+        ["55138.jpg", "Verde"],
+        ["55140.jpg", "Verde"],
+        ["55141.jpg", "Verde"]
+      ],
+      "sizes": ["S", "M", "L"],
+      "category": ["Giacche", "Completi"]
+    },
+    {
+      "id": "p5",
+      "title": "Pantalone coulotte Jaquard",
+      "price": 61,
+      "desc": {
+        "Materiale": "Misto Poly-Viscosa",
+        "Desc": "Pantalone elasticizzato in tessuto Jaquard lurex con fantasia geometrica. Vita alta con elastico e tasche a uomo, vestibilità morbida e lunghezza alla caviglia."
+      },
+      "images": [
+        ["55130.jpg", "Fuxia"],
+        ["55131.jpg", "Fuxia"],
+        ["55135.jpg", "Fuxia"],
+        ["55136.jpg", "Fuxia"]
+      ],
+      "sizes": ["S", "M", "L"],
+      "category": ["Pantaloni", "Completi"]
+    },
+    {
+      "id": "p6",
+      "title": "Giacca cropped Jaquard",
+      "price": 71,
+      "desc": {
+        "Materiale": "Misto Poly-Viscosa",
+        "Desc": "Giacca corta in tessuto Jaquard lurex con fantasia geometrica. Manica a 3/4 e scollo con rever, chiusura con bottone fasciato abbinato. Fodera in tono."
+      },
+      "images": [
+        ["55130.jpg", "Fuxia"],
+        ["55131.jpg", "Fuxia"],
+        ["55135.jpg", "Fuxia"],
+        ["55136.jpg", "Fuxia"]
+      ],
+      "sizes": ["S", "M", "L"],
+      "category": ["Giacche", "Completi"]
+    },
+    {
+      "id": "p7",
+      "title": "Pantalone flare a vita bassa",
+      "price": 56,
+      "desc": {
+        "Materiale": "100% Polyestere",
+        "Desc": "Pantalone flare con stampa geometrica. Vita bassa con zip, gamba morbida con cucitura centrale."
+      },
+      "images": [
+        ["55120.jpg", "Verde Acqua"],
+        ["55121.jpg", "Verde Acqua"],
+        ["55122.jpg", "Verde Acqua"],
+        ["55123.jpg", "Verde Acqua"],
+        ["55129.jpg", "Panna"]
+      ],
+      "sizes": ["S", "M", "L"],
+      "category": ["Pantaloni", "Completi"]
+    },
+    {
+      "id": "p8",
+      "title": "Top con bottoni fasciati",
+      "price": 61,
+      "desc": {
+        "Materiale": "100% Polyestere",
+        "Desc": "Top svasato con stampa geometrica. Ampi spacchi laterali con chiusura con bottoni fasciati abbinati."
+      },
+      "images": [
+        ["55120.jpg", "Verde Acqua"],
+        ["55121.jpg", "Verde Acqua"],
+        ["55122.jpg", "Verde Acqua"],
+        ["55123.jpg", "Verde Acqua"],
+        ["55129.jpg", "Panna"]
+      ],
+      "sizes": ["S", "M", "L"],
+      "category": ["Top", "Completi"]
+    },
+    {
+      "id": "p9",
+      "title": "Shorts a vita alta",
+      "price": 36,
+      "desc": {
+        "Materiale": "96% Polyestere 4% Elastane",
+        "Desc": "Shorts in crepe elasticizzato. Cuciture frontali e tasche a filetto applicate. Chiusura con zip e bottone fasciato."
+      },
+      "images": [
+        ["55111.jpg", "Rosa Bubble"],
+        ["55112.jpg", "Rosa Bubble"],
+        ["55114.jpg", "Rosa Bubble"],
+        ["55115.jpg", "Rosa Bubble"],
+        ["55116.jpg", "Nero"],
+        ["55117.jpg", "Celeste"],
+        ["55118.jpg", "Bianco"],
+        ["55119.jpg", "Senape"]
+      ],
+      "sizes": ["S", "M", "L"],
+      "category": ["Pantaloni"]
+    },
+    {
+      "id": "p10",
+      "title": "Gonna longuette in raso",
+      "price": 31,
+      "desc": {
+        "Materiale": "100% Polyestere",
+        "Desc": "Gonna midi in raso satinato. Taglio in sbieco per vestibilità scivolata, a vita alta con elastico invisibile e fondo leggermente svasato."
+      },
+      "images": [
+        ["55089.jpg", "Turchese"],
+        ["55086.jpg", "Turchese"],
+        ["55087.jpg", "Turchese"],
+
+        ["55094.jpg", "Turchese"],
+        ["55095.jpg", "Verde"],
+        ["55097.jpg", "Ruggine"],
+        ["55099.jpg", "Lilla"],
+        ["55100.jpg", "Arancio"]
+      ],
+      "sizes": ["S", "M", "L"],
+      "category": ["Gonne"]
+    },
+    {
+      "id": "p11",
+      "title": "Gonna a portafoglio stampata",
+      "price": 39,
+      "desc": {
+        "Materiale": "100% Polyestere",
+        "Desc": "Gonna in raso satinato con stampa maculata. Chiusura a portafoglio con pieghe e bottone gioiello."
+      },
+      "images": [
+        ["55080.jpg", "Arancio"],
+        ["55081.jpg", "Arancio"],
+        ["55084.jpg", "Arancio"],
+        ["55085.jpg", "Lilla"]
+      ],
+      "sizes": ["S", "M", "L"],
+      "category": ["Gonne"]
+    },
+    {
+      "id": "p12",
+      "title": "Mini abito a doppiopetto stampato",
+      "price": 61,
+      "desc": {
+        "Materiale": "100% Polyestere",
+        "Desc": "Abito-Giacca in raso satinato con stampa floreale. Manica lunga, chiusura a doppio petto con rever e bottoni in tono."
+      },
+      "images": [
+        ["55074.jpg", "Nero"],
+        ["55076.jpg", "Nero"],
+        ["55077.jpg", "Nero"],
+        ["55078.jpg", "Nero"],
+        ["55079.jpg", "Rosa"]
+      ],
+      "sizes": ["S", "M", "L"],
+      "category": ["Vestiti"]
+    },
+    {
+      "id": "p13",
+      "title": "Mini dress con cut-out",
+      "price": 36,
+      "desc": {
+        "Materiale": "60% Viscosa 37% Lurex 3% Elastane",
+        "Desc": "Abito corto in tessuto elasticizzato con lurex. Cut-out frontale intrecciato, da legare al collo."
+      },
+      "images": [
+        ["55062.jpg", "Verde Chiaro"],
+        ["55063.jpg", "Verde Chiaro"],
+        ["55064.jpg", "Verde Chiaro"],
+        ["55066.jpg", "Lilla"],
+        ["55067.jpg", "Verde Smeraldo"],
+        ["55069.jpg", "Nero"]
+      ],
+      "sizes": ["S", "M", "L"],
+      "category": ["Vestiti"]
+    },
+    {
+      "id": "p14",
+      "title": "Top monospalla a righe",
+      "price": 22.5,
+      "desc": {
+        "Materiale": "Misto Poly-Cotone",
+        "Desc": "Top monospalla in tessuto elasticizzato a righe con lurex. Manica a 3/4."
+      },
+      "images": [
+        ["55053.jpg", "Arancio"],
+        ["55054.jpg", "Arancio"],
+        ["55055.jpg", "Arancio"],
+        ["55058.jpg", "Arancio"],
+        ["55059.jpg", "Turchese"],
+        ["55060.jpg", "Rosa"]
+      ],
+      "sizes": ["S", "M", "L"],
+      "category": ["Top"]
+    },
+    {
+      "id": "p15",
+      "title": "Canotta con spalline incrociate",
+      "price": 21,
+      "desc": {
+        "Materiale": "Misto Poly-Cotone",
+        "Desc": "Canotta in tessuto elasticizzato a righe con lurex. Scollo rotondo e spalline incrociate sul retro."
+      },
+      "images": [
+        ["55047.jpg", "Arancio"],
+        ["55048.jpg", "Arancio"],
+        ["55049.jpg", "Arancio"],
+        ["55050.jpg", "Turchese"],
+        ["55051.jpg", "Rosa"]
+      ],
+      "sizes": ["S", "M", "L"],
+      "category": ["Top"]
+    },
+    {
+      "id": "p16",
+      "title": "Canotta svasata in raso",
+      "price": 24,
+      "desc": {
+        "Materiale": "100% Polyestere",
+        "Desc": "Canotta in raso satinato, leggermente svasata con spallina larga e bottoncino sul retro."
+      },
+      "images": [
+        ["55036.jpg", "Turchese"],
+        ["55038.jpg", "Turchese"],
+        ["55039.jpg", "Turchese"],
+        ["55040.jpg", "Turchese"],
+        ["55041.jpg", "Ruggine"],
+        ["55042.jpg", "Lilla"],
+        ["55044.jpg", "Arancio"],
+        ["55045.jpg", "Verde"]
+      ],
+      "sizes": ["S", "M", "L"],
+      "category": ["Top"]
+    },
+    {
+      "id": "p17",
+      "title": "Abito con cut-out manica lunga",
+      "price": 42.5,
+      "desc": {
+        "Materiale": "100% Polyestere",
+        "Desc": "Mini abito in raso opaco, scollo a V intrecciato e manica lunga. Cut-out frontale."
+      },
+      "images": [
+        ["55025.jpg", "Nero"],
+        ["55026.jpg", "Nero"],
+        ["55028.jpg", "Nero"],
+        ["55029.jpg", "Lime"],
+        ["55031.jpg", "Rosa Bubble"],
+        ["55034.jpg", "Bianco"]
+      ],
+      "sizes": ["S", "M", "L"],
+      "category": ["Vestiti"]
+    },
+    {
+      "id": "p18",
+      "title": "Body incrociato con lurex",
+      "price": 49,
+      "desc": {
+        "Materiale": "60% Viscosa 37% Lurex 3% Elastane",
+        "Desc": "Mini abito in raso opaco, scollo a V intrecciato e manica lunga. Cut-out frontale."
+      },
+      "images": [
+        ["55011.jpg", "Verde Smeraldo"],
+        ["55012.jpg", "Verde Smeraldo"],
+        ["55013.jpg", "Verde Smeraldo"],
+        ["55015.jpg", "Verde Smeraldo"],
+        ["55019.jpg", "Lilla"],
+        ["55021.jpg", "Verde Chiaro"],
+        ["55022.jpg", "Nero"]
+      ],
+      "sizes": ["S", "M", "L"],
+      "category": ["Top"]
+    },
+    {
+      "id": "p19",
+      "title": "Camicia con manica plissè",
+      "price": 42.5,
+      "desc": {
+        "Materiale": "100% Polyestere",
+        "Desc": "Camicetta con scollo a V, manica ampia plissettata e sciarpa al collo da annodare. Chiusura frontale con bottoncini in tono."
+      },
+      "images": [
+        ["54998.jpg", "Lime"],
+        ["55000.jpg", "Lime"],
+        ["55001.jpg", "Lime"],
+        ["55003.jpg", "Lime"],
+        ["55006.jpg", "Agata"],
+        ["55007.jpg", "Bianco"],
+        ["55010.jpg", "Fuxia"]
+      ],
+      "sizes": ["S", "M", "L"],
+      "category": ["Top"]
+    },
+    {
+      "id": "p20",
+      "title": "T-Shirt cropped con arriccio",
+      "price": 26,
+      "desc": {
+        "Materiale": "Misto Poly-Cotone",
+        "Desc": "T-shirt paricollo in tessuto elasticizzato a righe con lurex. Arriccio frontale."
+      },
+      "images": [
+        ["54991.jpg", "Arancio"],
+        ["54992.jpg", "Arancio"],
+        ["54993.jpg", "Arancio"],
+        ["54994.jpg", "Arancio"],
+        ["54995.jpg", "Turchese"],
+        ["54996.jpg", "Rosa"]
+      ],
+      "sizes": ["S", "M", "L"],
+      "category": ["Top"]
+    },
+    {
+      "id": "p21",
+      "title": "Camicetta cropped arricciata",
+      "price": 41,
+      "desc": {
+        "Materiale": "98% Cotone 2% Elastane",
+        "Desc": "Camicia corta in cotone comfort, con colletto classico, abbottonatura arricciata e bottoncini in tono."
+      },
+      "images": [
+        ["54949.jpg", "Turchese"],
+        ["54951.jpg", "Turchese"],
+        ["54954.jpg", "Turchese"],
+        ["54956.jpg", "Lime"],
+        ["54958.jpg", "Fuxia"],
+        ["54959.jpg", "Lilla"],
+        ["54960.jpg", "Arancio"]
+      ],
+      "sizes": ["S", "M", "L"],
+      "category": ["Top"]
+    },
+    {
+      "id": "p22",
+      "title": "Top all'Americana",
+      "price": 26,
+      "desc": {
+        "Materiale": "100% Polyestere",
+        "Desc": "Crop top in raso satinato. Scollo a V da annodare al collo con schiena scoperta. Arriccio frontale con coulisse e fiocco."
+      },
+      "images": [
+        ["54933.jpg", "Arancio"],
+        ["54935.jpg", "Arancio"],
+        ["54936.jpg", "Arancio"],
+        ["54938.jpg", "Arancio"],
+        ["54940.jpg", "Ruggine"],
+        ["54943.jpg", "Lilla"],
+        ["54945.jpg", "Verde"],
+        ["54946.jpg", "Turchese"]
+      ],
+      "sizes": ["S", "M", "L"],
+      "category": ["Top"]
+    },
+    {
+      "id": "p23",
+      "title": "Top cropped con scollo V",
+      "price": 32.5,
+      "desc": {
+        "Materiale": "60% Viscosa 37% Lurex 3% Elastane",
+        "Desc": "Crop top in tessuto elasticizzato con lurex. Profondo scollo a V arricciato, con occhiello centrale e manica lunga."
+      },
+      "images": [
+        ["54922.jpg", "Verde Chiaro"],
+        ["54923.jpg", "Verde Chiaro"],
+        ["54924.jpg", "Verde Chiaro"],
+        ["54926.jpg", "Verde Chiaro"],
+        ["54927.jpg", "Verde Smeraldo"],
+        ["54928.jpg", "Lilla"],
+        ["54930.jpg", "Nero"]
+      ],
+      "sizes": ["S", "M", "L"],
+      "category": ["Top"]
+    },
+    {
+      "id": "p24",
+      "title": "Shorts con bottone gioiello",
+      "price": 46,
+      "desc": {
+        "Materiale": "100% Cotone",
+        "Desc": "Shorts a vita alta in tessuto con trama intrecciata. Tasche  a uomo, pince frontali e bottone gioiello."
+      },
+      "images": [
+        ["55169.jpg", "Rosa Bubble"],
+        ["55170.jpg", "Rosa Bubble"],
+        ["55171.jpg", "Rosa Bubble"],
+        ["55172.jpg", "Rosa Bubble"],
+        ["55173.jpg", "Turchese"],
+        ["55174.jpg", "Arancio"]
+      ],
+      "sizes": ["S", "M", "L"],
+      "category": ["Pantaloni", "Completi"]
+    },
+    {
+      "id": "p25",
+      "title": "Giacca cropped con bottoni gioiello",
+      "price": 57.5,
+      "desc": {
+        "Materiale": "100% Cotone",
+        "Desc": "Giacca corta in tessuto con trama intrecciata. Scollo profondo, manica lunga e chiusura a portafoglio con bottoni gioiello."
+      },
+      "images": [
+        ["55169.jpg", "Rosa Bubble"],
+        ["55170.jpg", "Rosa Bubble"],
+        ["55171.jpg", "Rosa Bubble"],
+        ["55172.jpg", "Rosa Bubble"],
+        ["55173.jpg", "Turchese"],
+        ["55174.jpg", "Arancio"]
+      ],
+      "sizes": ["S", "M", "L"],
+      "category": ["Giacche", "Completi"]
+    },
+    {
+      "id": "p26",
+      "category": ["Vestiti"],
+      "images": [
+        ["1715.jpg", "Nero"],
+        ["1716.jpg", "Nero"],
+        ["1717.jpg", "Nero"],
+        ["1718.jpg", "Nero"],
+        ["1711.jpg", "Rosa"],
+        ["1710.jpg", "Rosa"],
+        ["1708.jpg", "Rosa"],
+        ["1709.jpg", "Rosa"]
+      ],
+      "sizes": ["S", "M", "L"],
+      "desc": {
+        "Materiale": "100% Polyestere",
+        "Desc": "Abito a stampa floreale, con anello centrale e cut-out. Maniche a palloncino e chiusura con zip dietro "
+      },
+      "title": "Abito midi con anello e cut-out",
+      "price": 60
+    },
+    {
+      "id": "p27",
+      "title": "Minigonna arricciata",
+      "price": 37.5,
+      "category": ["Gonne"],
+      "images": [
+        ["1671.jpg", "Nero"],
+        ["1670.jpg", "Nero"],
+        ["1676.jpg", "Nero"],
+        ["1719.jpg", "Lilla"],
+        ["1720.jpg", "Lilla"],
+        ["1712.jpg", "Turchese"],
+        ["1713.jpg", "Turchese"]
+      ],
+      "desc": {
+        "Desc": "Minigonna con arriccio, cintura annodata e chiusura con zip",
+        "Materiale": "100% Polyestere"
+      },
+      "sizes": ["S", "M", "L"]
+    },
+    {
+      "id": "p28",
+      "title": "Camicia incrociata con schiena nuda",
+      "price": 30,
+      "category": ["Top"],
+      "images": [
+        ["1672.jpg", "Bianco"],
+        ["1674.jpg", "Bianco"],
+        ["1675.jpg", "Bianco"],
+        ["1694.jpg", "Giallo"],
+        ["1695.jpg", "Giallo"],
+        ["1678.jpg", "Celeste"],
+        ["1679.jpg", "Celeste"],
+        ["1685.jpg", "Verde"],
+        ["1689.jpg", "Verde"]
+      ],
+      "desc": {
+        "Desc": "Camicia a incrocio con lacci regolabili, colletto classico e schiena scoperta. Bottoni in madreperla.",
+        "Materiale": "100% Polyestere"
+      },
+      "sizes": ["S", "M", "L"]
+    },
+    {
+      "id": "p29",
+      "title": "Crop top con arriccio",
+      "price": 22.5,
+      "category": ["Top"],
+      "images": [
+        ["1665.jpg", "Lilla"],
+        ["1666.jpg", "Lilla"],
+        ["1667.jpg", "Lilla"],
+        ["1677.jpg", "Verde"],
+        ["1668.jpg", "Turchese"],
+        ["1680.jpg", "Arancio"],
+        ["1669.jpg", "Ruggine"]
+      ],
+      "desc": {
+        "Desc": "Crop top con elastico dietro, spalline intrecciate e coppe arricciate.",
+        "Materiale": "100% Polyestere"
+      },
+      "sizes": ["S", "M", "L"]
+    },
+    {
+      "id": "p30",
+      "title": "Abito corto aderente con scollo V ",
+      "category": ["Vestiti"],
+      "price": 45,
+      "images": [
+        ["1696.jpg", "Giallo"],
+        ["1699.jpg", "Giallo"],
+        ["1698.jpg", "Giallo"],
+        ["1691.jpg", "Blu"],
+        ["1693.jpg", "Blu"],
+        ["1692.jpg", "Blu"]
+      ],
+      "desc": {
+        "Desc": "Abito corto in stampa micro floreale, vestibilità aderente con arriccio. Dettaglio in metallo oro sullo scollo. Vestibilità aderente.  Zip laterale.",
+        "Materiale": "100% Polyestere"
+      },
+      "sizes": ["S", "M", "L"]
+    },
+    {
+      "id": "p31",
+      "title": "Crop top Jacquard ",
+      "category": ["Top"],
+      "price": 32.5,
+      "images": [
+        ["1703.jpg", "Verde"],
+        ["1704.jpg", "Verde"],
+        ["1706.jpg", "Verde"],
+        ["1700.jpg", "Fuxia"],
+        ["1701.jpg", "Fuxia"],
+        ["1702.jpg", "Fuxia"]
+      ],
+      "desc": {
+        "Desc": "Crop top elasticizzato in tessuto Jaquard lurex con fantasia geometrica. Spalline large e scollo a cuore.",
+        "Materiale": "Misto Poly-Viscosa"
+      },
+      "sizes": ["S", "M", "L"]
+    },
+    {
+      "id": "p32",
+      "title": "Costume Intero con anello",
+      "category": ["Swimwear"],
+      "price": 40,
+      "images": [
+        ["1531.jpg", "Rosa antico"],
+        ["1530.jpg", "Rosa antico"],
+        ["1529.jpg", "Rosa antico"],
+        ["1527.jpg", "Rosa antico"],
+        ["1522.jpg", "Oro"],
+        ["1519.jpg", "Oro"],
+        ["1520.jpg", "Oro"],
+        ["1521.jpg", "Oro"]
+      ],
+      "desc": {
+        "Desc": "Costume intero con scollo profondo, anello frontale e cut-out.",
+        "Materiale": "87% Polyestere 13% Elastane"
+      },
+      "sizes": ["S/M"]
+    },
+    {
+      "id": "p33",
+      "title": "Bikini fantasia con Pareo",
+      "images": [
+        ["1585.jpg", "Tigrato"],
+        ["1582.jpg", "Tigrato"],
+        ["1580.jpg", "Tigrato"],
+        ["1581.jpg", "Tigrato"],
+
+        ["1603.jpg", "Cashmere"],
+        ["1606.jpg", "Cashmere"],
+        ["1609.jpg", "Cashmere"],
+        ["1610.jpg", "Cashmere"]
+      ],
+      "price": 37.5,
+      "category": ["Swimwear"],
+      "sizes": ["S/M"],
+      "desc": {
+        "Desc": "Set Bikini a fantasia con pareo in tulle abbinato.",
+        "Materiale": "92% Polyestere 8% Elastane"
+      }
+    },
+    {
+      "id": "p34",
+      "category": ["Swimwear"],
+      "price": 45,
+      "title": "Bikini con foulard",
+      "images": [
+        ["1633.jpg", "Etnico"],
+        ["1632.jpg", "Etnico"],
+        ["1635.jpg", "Etnico"],
+        ["1634.jpg", "Etnico"],
+        ["1643.jpg", "Rosa antico"],
+        ["1645.jpg", "Rosa antico"],
+        ["1644.jpg", "Rosa antico"],
+        ["1646.jpg", "Rosa antico"]
+      ],
+      "desc": {
+        "Desc": "Bikini con spalline a foulard e slip arricciato.",
+        "Materiale": "92% Polyestere 8% Elastane"
+      },
+      "sizes": ["S/M"]
+    },
+    {
+      "id": "p35",
+      "title": "Bikini satinato",
+      "price": 41,
+      "category": ["Swimwear"],
+      "images": [
+        ["1561.jpg", "Oro"],
+        ["1559.jpg", "Oro"],
+        ["1558.jpg", "Oro"],
+        ["1557.jpg", "Oro"],
+        ["1543.jpg", "Viola Orchidea"],
+        ["1547.jpg", "Viola Orchidea"],
+        ["1548.jpg", "Viola Orchidea"],
+        ["1544.jpg", "Viola Orchidea"]
+      ],
+      "desc": {
+        "Desc": "Bikini effetto bagnato, con slip arricciato.",
+        "Materiale": "87% Polyestere 13% Elastane"
+      },
+      "sizes": ["S/M"]
+    },
+
+    {
+      "id": "p36",
+      "title": "Costume intero con cut-out",
+      "price": 45,
+      "category": ["Swimwear"],
+      "desc": {
+        "Desc": "Costume intero con cut-out frontale e fiocco.",
+        "Materiale": "87% Polyestere 13% Elastane"
+      },
+      "sizes": ["S/M"],
+      "images": [
+        ["1552.jpg", "Fuxia"],
+        ["1554.jpg", "Fuxia"],
+        ["1556.jpg", "Fuxia"],
+        ["1538.jpg", "Verde Acqua"],
+        ["1537.jpg", "Verde Acqua"],
+        ["1539.jpg", "Verde Acqua"],
+        ["1540.jpg", "Verde Acqua"]
+      ]
+    },
+    {
+      "id": "p37",
+      "title": "Costume intero a fantasia",
+      "price": 37.5,
+      "category": ["Swimwear"],
+      "desc": {
+        "Desc": "Costume intero a fantasia, con scollo profondo e schiena scoperta.",
+        "Materiale": "92% Polyestere 8% Elastane"
+      },
+      "sizes": ["S/M"],
+      "images": [
+        ["1526.jpg", "Arancio"],
+        ["1529.jpg", "Arancio"],
+        ["1638.jpg", "Viola"],
+        ["1640.jpg", "Viola"],
+        ["1642.jpg", "Viola"],
+        ["1636.jpg", "Viola"]
+      ]
+    },
+    {
+      "id": "p38",
+      "title": "Bikini glitterato",
+      "price": 45,
+      "category": ["Swimwear"],
+      "desc": {
+        "Desc": "Bikini a triangolo glitterato con slip regolabile.",
+        "Materiale": "42% Polyestere 50% Polyamide 8% Spandex"
+      },
+      "sizes": ["S/M"],
+      "images": [
+        ["1589.jpg", "Verde Acqua glitter"],
+        ["1590.jpg", "Verde Acqua glitter"],
+        ["1591.jpg", "Verde Acqua glitter"],
+        ["1592.jpg", "Verde Acqua glitter"],
+        ["1574.jpg", "Viola glitter"],
+        ["1572.jpg", "Viola glitter"],
+        ["1575.jpg", "viola glitter"],
+        ["1573.jpg", "viola glitter"]
+      ]
+    },
+    {
+      "id": "p39",
+      "title": "Bikini con stampa satinata",
+      "price": 37.5,
+      "category": ["Swimwear"],
+      "desc": {
+        "Desc": "Bikini a triangolo con stampa laminata e slip regolabile.",
+        "Materiale": "87% Polyestere 13% Elastane"
+      },
+      "sizes": ["S/M"],
+      "images": [
+        ["1533.jpg", "Nero laminato"],
+        ["1532.jpg", "Nero laminato"],
+        ["1534.jpg", "Nero laminato"],
+        ["1535.jpg", "Nero laminato"],
+        ["1523.jpg", "Oro laminato"],
+        ["1524.jpg", "Oro laminato"],
+        ["1525.jpg", "Oro laminato"],
+        ["1526.jpg", "Oro laminato"]
+      ]
+    },
+    {
+      "id": "p40",
+      "title": "Bikini con dettaglio gioiello",
+      "price": 55,
+      "category": ["Swimwear"],
+      "desc": {
+        "Desc": "Bikini a fascia con slip a vita alta e dettaglio gioiello.",
+        "Materiale": "87% Polyestere 13% Elastane"
+      },
+      "sizes": ["S/M"],
+      "images": [
+        ["1569.jpg", "Nero"],
+        ["1571.jpg", "Nero"],
+        ["1568.jpg", "Nero"],
+        ["1570.jpg", "Nero"]
+      ]
+    },
+    {
+      "id": "p41",
+      "title": "Bikini con spalline in strass",
+      "price": 47.5,
+      "category": ["Swimwear"],
+      "desc": {
+        "Desc": "Bikini a triangolo con spalline in strass.",
+        "Materiale": "87% Polyestere 13% Elastane"
+      },
+      "sizes": ["S/M"],
+      "images": [
+        ["1658.jpg", "Nero"],
+        ["1655.jpg", "Nero"],
+        ["1659.jpg", "Nero"],
+        ["1656.jpg", "Nero"],
+        ["1651.jpg", "Fuxia"],
+        ["1652.jpg", "Fuxia"],
+        ["1650.jpg", "Fuxia"],
+        ["1653.jpg", "Fuxia"]
+      ]
+    },
+    {
+      "id": "p42",
+      "title": "Costume intero con intreccio",
+      "price": 42.5,
+      "category": ["Swimwear"],
+      "desc": {
+        "Desc": "Costume intero con cut-out frontale intrecciato.",
+        "Materiale": "87% Polyestere 13% Elastane"
+      },
+      "sizes": ["S/M"],
+      "images": [
+        ["1595.jpg", "Nero"],
+        ["1597.jpg", "Nero"],
+        ["1596.jpg", "Nero"],
+        ["1599.jpg", "Nero"],
+        ["1611.jpg", "Lilla"],
+        ["1614.jpg", "Lilla"],
+        ["1612.jpg", "Lilla"],
+        ["1613.jpg", "Lilla"]
+      ]
+    },
+    {
+      "id": "p43",
+      "title": "Pareo lungo con volant",
+      "price": 27.5,
+      "category": ["Swimwear"],
+      "desc": {
+        "Desc": "Gonna pareo lunga, in tulle elasticizzato e spacco con volant.",
+        "Materiale": "100% Polyestere"
+      },
+      "sizes": ["S/M"],
+      "images": [
+        ["1662.jpg", "Nero"],
+        ["1664.jpg", "Nero"],
+        ["1663.jpg", "Nero"],
+        ["1661.jpg", "Nero"]
+      ]
+    },
+    {
+      "id": "p44",
+      "title": "Borsa con maxi frangia",
+      "price": 50,
+      "category": ["Accessori"],
+      "desc": {
+        "Desc": "Borsa da spiaggia in rafia intrecciata. Sacco bicolore Ecrù/Beige. Maxi frangia ecrù, chiusura con zip e tasca interna.",
+        "Materiale": "Rafia 100% fibre naturali vegetali"
+      },
+      "sizes": ["Unica"],
+      "images": [
+        ["1720B.jpeg", "Ecrù"],
+        ["1655B.jpeg", "Ecrù"],
+        ["1654B.jpeg", "Ecrù"]
+      ]
+    },
+
+    {
+      "id": "p45",
+      "title": "Borsa con manici in legno",
+      "price": 45,
+      "category": ["Accessori"],
+      "desc": {
+        "Desc": "Ampia borsa in rafia intrecciata in due diversi motivi, liscia o fantasia. Manici rigidi in legno. Chiusura con zip e tasca interna.",
+        "Materiale": "Rafia 100% fibre naturali vegetali"
+      },
+      "sizes": ["Unica"],
+      "images": [
+        ["1721B.jpeg", "Ecrù liscio"],
+        ["1563B.jpeg", "Ecrù liscio"],
+        ["1562B.jpeg", "Ecrù liscio"]
+      ]
+    },
+    {
+      "id": "p46",
+      "title": "Borsa con manici in legno",
+      "price": 45,
+      "category": ["Accessori"],
+      "desc": {
+        "Desc": "Ampia borsa in rafia intrecciata in due diversi motivi, liscia o fantasia. Manici rigidi in legno. Chiusura con zip e tasca interna.",
+        "Materiale": "Rafia 100% fibre naturali vegetali"
+      },
+      "sizes": ["Unica"],
+      "images": [
+        ["1629B.jpeg", "Ecrù intrecciato"],
+        ["1631B.jpeg", "Ecrù intrecciato"]
+      ]
+    },
+    {
+      "id": "p47",
+      "title": "Borsa intrecciata con frange",
+      "price": 45,
+      "category": ["Accessori"],
+      "desc": {
+        "Desc": "Borsa rotonda all'uncinetto in rafia. Manici lunghi, frangia all-over e chiusura con zip.",
+        "Materiale": "Rafia 100% fibre naturali vegetali"
+      },
+      "sizes": ["Unica"],
+      "images": [
+        ["1724B.jpeg", "Nero"],
+        ["1602B.jpeg", "Nero"],
+        ["1601B.jpeg", "Nero"],
+        ["1723B.jpeg", "Ecrù"],
+        ["1593B.jpeg", "Ecrù"],
+        ["1594B.jpeg", "Ecrù"]
+      ]
+    },
+    {
+      "id": "p48",
+      "title": "Cappello sfrangiato con nastro",
+      "price": 30,
+      "category": ["Accessori"],
+      "desc": {
+        "Desc": "Cappello in paglia a tesa larga con bordo sfrangiato e nastro nero. Nastrino interno per regolare la vestibilità.",
+        "Materiale": "Rafia 100% fibre naturali vegetali"
+      },
+      "sizes": ["Unica"],
+      "images": [
+        ["1719B.jpeg", "Ecrù"],
+        ["1659B.jpeg", "Ecrù"],
+        ["1660B.jpeg", "Ecrù"],
+        ["1662B.jpeg", "Ecrù"]
+      ]
+    },
+    {
+      "id": "p49",
+      "title": "Cappello in paglia con decori",
+      "price": 17.5,
+      "category": ["Accessori"],
+      "desc": {
+        "Desc": "Cappello in paglia con bordi decorati a fantasia e dettagli in oro. Nastrino interno per regolare la vestibilità.",
+        "Materiale": "Rafia 100% fibre naturali vegetali"
+      },
+      "sizes": ["Unica"],
+      "images": [
+        ["1726B.jpeg", "Ecrù"],
+        ["1647B.jpeg", "Ecrù"],
+        ["1649B.jpeg", "Ecrù"],
+        ["1650B.jpeg", "Ecrù"]
+      ]
+    },
+    {
+      "id": "p50",
+      "title": "Cappello in paglia sfrangiato",
+      "price": 30,
+      "category": ["Accessori"],
+      "desc": {
+        "Desc": "Cappello in paglia a tesa larga, cordino in rafia e perline in legno tono su tono. Nastrino interno per regolare la vestibilità.",
+        "Materiale": "Rafia 100% fibre naturali vegetali"
+      },
+      "sizes": ["Unica"],
+      "images": [
+        ["1728B.jpeg", "Ecrù"],
+        ["1564B.jpeg", "Ecrù"],
+        ["1566B.jpeg", "Ecrù"],
+        ["1567B.jpeg", "Ecrù"]
+      ]
+    },
+    {
+      "id": "p51",
+      "title": "Texano intrecciato con cordino",
+      "price": 20,
+      "category": ["Accessori"],
+      "desc": {
+        "Desc": "Cappello stile cowboy in rafia intrecciata. Colore effetto invecchiato, con cordino classico e medaglietta.",
+        "Materiale": "Rafia 100% fibre naturali vegetali"
+      },
+      "sizes": ["Unica"],
+      "images": [
+        ["1725B.jpeg", "Cammello"],
+        ["1583B.jpeg", "Cammello"],
+        ["1582B.jpeg", "Cammello"],
+        ["1584B.jpeg", "Cammello"]
+      ]
+    }
+  ]
 }
