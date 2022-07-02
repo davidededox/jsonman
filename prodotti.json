@@ -868,9 +868,9 @@
       },
       "sizes": ["Unica"],
       "images": [
-        ["1720B.jpeg", "Ecrù"],
-        ["1655B.jpeg", "Ecrù"],
-        ["1654B.jpeg", "Ecrù"]
+        ["1720B.jpg", "Ecrù"],
+        ["1655B.jpg", "Ecrù"],
+        ["1654B.jpg", "Ecrù"]
       ]
     },
 
@@ -885,9 +885,9 @@
       },
       "sizes": ["Unica"],
       "images": [
-        ["1721B.jpeg", "Ecrù liscio"],
-        ["1563B.jpeg", "Ecrù liscio"],
-        ["1562B.jpeg", "Ecrù liscio"]
+        ["1721B.jpg", "Ecrù liscio"],
+        ["1563B.jpg", "Ecrù liscio"],
+        ["1562B.jpg", "Ecrù liscio"]
       ]
     },
     {
@@ -901,9 +901,9 @@
       },
       "sizes": ["Unica"],
       "images": [
-        ["1722.jpeg", "Ecrù intrecciato"],
-        ["1629B.jpeg", "Ecrù intrecciato"],
-        ["1631B.jpeg", "Ecrù intrecciato"]
+        ["1722.jpg", "Ecrù intrecciato"],
+        ["1629B.jpg", "Ecrù intrecciato"],
+        ["1631B.jpg", "Ecrù intrecciato"]
       ]
     },
     {
@@ -917,12 +917,12 @@
       },
       "sizes": ["Unica"],
       "images": [
-        ["1724B.jpeg", "Nero"],
-        ["1602B.jpeg", "Nero"],
-        ["1601B.jpeg", "Nero"],
-        ["1723B.jpeg", "Ecrù"],
-        ["1593B.jpeg", "Ecrù"],
-        ["1594B.jpeg", "Ecrù"]
+        ["1724B.jpg", "Nero"],
+        ["1602B.jpg", "Nero"],
+        ["1601B.jpg", "Nero"],
+        ["1723B.jpg", "Ecrù"],
+        ["1593B.jpg", "Ecrù"],
+        ["1594B.jpg", "Ecrù"]
       ]
     },
     {
@@ -936,10 +936,10 @@
       },
       "sizes": ["Unica"],
       "images": [
-        ["1719B.jpeg", "Ecrù"],
-        ["1659B.jpeg", "Ecrù"],
-        ["1660B.jpeg", "Ecrù"],
-        ["1662B.jpeg", "Ecrù"]
+        ["1719B.jpg", "Ecrù"],
+        ["1659B.jpg", "Ecrù"],
+        ["1660B.jpg", "Ecrù"],
+        ["1662B.jpg", "Ecrù"]
       ]
     },
     {
@@ -953,14 +953,14 @@
       },
       "sizes": ["Unica"],
       "images": [
-        ["1726B.jpeg", "Ecrù"],
-        ["1647B.jpeg", "Ecrù"],
-        ["1649B.jpeg", "Ecrù"],
-        ["1650B.jpeg", "Ecrù"],
-        ["1727B.jpeg", "Beige"],
-        ["1576B.jpeg", "Beige"],
-        ["1575B.jpeg", "Beige"],
-        ["1577B.jpeg", "Beige"]
+        ["1726B.jpg", "Ecrù"],
+        ["1647B.jpg", "Ecrù"],
+        ["1649B.jpg", "Ecrù"],
+        ["1650B.jpg", "Ecrù"],
+        ["1727B.jpg", "Beige"],
+        ["1576B.jpg", "Beige"],
+        ["1575B.jpg", "Beige"],
+        ["1577B.jpg", "Beige"]
       ]
     },
     {
@@ -974,10 +974,10 @@
       },
       "sizes": ["Unica"],
       "images": [
-        ["1728B.jpeg", "Ecrù"],
-        ["1564B.jpeg", "Ecrù"],
-        ["1566B.jpeg", "Ecrù"],
-        ["1567B.jpeg", "Ecrù"]
+        ["1728B.jpg", "Ecrù"],
+        ["1564B.jpg", "Ecrù"],
+        ["1566B.jpg", "Ecrù"],
+        ["1567B.jpg", "Ecrù"]
       ]
     },
     {
@@ -991,10 +991,10 @@
       },
       "sizes": ["Unica"],
       "images": [
-        ["1725B.jpeg", "Cammello"],
-        ["1583B.jpeg", "Cammello"],
-        ["1582B.jpeg", "Cammello"],
-        ["1584B.jpeg", "Cammello"]
+        ["1725B.jpg", "Cammello"],
+        ["1583B.jpg", "Cammello"],
+        ["1582B.jpg", "Cammello"],
+        ["1584B.jpg", "Cammello"]
       ]
     }
   ]
