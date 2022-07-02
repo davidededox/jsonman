@@ -9,7 +9,6 @@
         "Desc": "Pantalone palazzo in tessuto comfort, con pince frontali e elastico in vita. Chiusura con zip e bottone fasciato."
       },
       "images": [
-        ["55151.jpg", "Arancio"],
         ["55152.jpg", "Arancio"],
         ["55153.jpg", "Arancio"],
         ["55154.jpg", "Arancio"],
@@ -30,7 +29,6 @@
       },
       "images": [
         ["55151.jpg", "Arancio"],
-        ["55152.jpg", "Arancio"],
         ["55153.jpg", "Arancio"],
         ["55154.jpg", "Arancio"],
         ["55161.jpg", "Turchese"],
@@ -49,11 +47,10 @@
         "Desc": "Pantalone elasticizzato in tessuto Jaquard lurex con fantasia geometrica. Vita alta con elastico e fondo ampio a zampa."
       },
       "images": [
-        ["55141.jpg", "Verde"],
-
+        ["55137.jpg", "Verde"],
         ["55138.jpg", "Verde"],
         ["55140.jpg", "Verde"],
-        ["55137.jpg", "Verde"]
+        ["55141.jpg", "Verde"]
       ],
       "sizes": ["S", "M", "L"],
       "category": ["Pantaloni", "Completi"]
@@ -67,8 +64,8 @@
         "Desc": "Giacca in tessuto Jaquard lurex con fantasia geometrica. Vestibilità over, chiusura a doppiopetto con bottoni fasciati abbinati. Fodera in tono."
       },
       "images": [
+        ["55138B.jpg", "Verde"],
         ["55137.jpg", "Verde"],
-        ["55138.jpg", "Verde"],
         ["55140.jpg", "Verde"],
         ["55141.jpg", "Verde"]
       ],
@@ -101,8 +98,8 @@
         "Desc": "Giacca corta in tessuto Jaquard lurex con fantasia geometrica. Manica a 3/4 e scollo con rever, chiusura con bottone fasciato abbinato. Fodera in tono."
       },
       "images": [
+        ["55130B.jpg", "Fuxia"],
         ["55130.jpg", "Fuxia"],
-        ["55131.jpg", "Fuxia"],
         ["55135.jpg", "Fuxia"],
         ["55136.jpg", "Fuxia"]
       ],
@@ -136,7 +133,7 @@
         "Desc": "Top svasato con stampa geometrica. Ampi spacchi laterali con chiusura con bottoni fasciati abbinati."
       },
       "images": [
-        ["55120.jpg", "Verde Acqua"],
+        ["55120B.jpg", "Verde Acqua"],
         ["55121.jpg", "Verde Acqua"],
         ["55122.jpg", "Verde Acqua"],
         ["55123.jpg", "Verde Acqua"],
@@ -175,10 +172,10 @@
         "Desc": "Gonna midi in raso satinato. Taglio in sbieco per vestibilità scivolata, a vita alta con elastico invisibile e fondo leggermente svasato."
       },
       "images": [
-        ["55089.jpg", "Turchese"],
         ["55086.jpg", "Turchese"],
-        ["55087.jpg", "Turchese"],
 
+        ["55087.jpg", "Turchese"],
+        ["55089.jpg", "Turchese"],
         ["55094.jpg", "Turchese"],
         ["55095.jpg", "Verde"],
         ["55097.jpg", "Ruggine"],
@@ -589,7 +586,7 @@
         ["1704.jpg", "Verde"],
         ["1706.jpg", "Verde"],
         ["1700.jpg", "Fuxia"],
-        ["1701.jpg", "Fuxia"],
+        ["1701B.jpg", "Fuxia"],
         ["1702.jpg", "Fuxia"]
       ],
       "desc": {
@@ -627,7 +624,6 @@
         ["1582.jpg", "Tigrato"],
         ["1580.jpg", "Tigrato"],
         ["1581.jpg", "Tigrato"],
-
         ["1603.jpg", "Cashmere"],
         ["1606.jpg", "Cashmere"],
         ["1609.jpg", "Cashmere"],
@@ -651,10 +647,10 @@
         ["1632.jpg", "Etnico"],
         ["1635.jpg", "Etnico"],
         ["1634.jpg", "Etnico"],
-        ["1643.jpg", "Rosa antico"],
         ["1645.jpg", "Rosa antico"],
         ["1644.jpg", "Rosa antico"],
-        ["1646.jpg", "Rosa antico"]
+        ["1646.jpg", "Rosa antico"],
+        ["1643.jpg", "Rosa antico"]
       ],
       "desc": {
         "Desc": "Bikini con spalline a foulard e slip arricciato.",
@@ -695,6 +691,7 @@
       },
       "sizes": ["S/M"],
       "images": [
+        ["1550.jpg", "Fuxia"],
         ["1552.jpg", "Fuxia"],
         ["1554.jpg", "Fuxia"],
         ["1556.jpg", "Fuxia"],
@@ -715,6 +712,8 @@
       },
       "sizes": ["S/M"],
       "images": [
+        ["1527.jpg", "Arancio"],
+        ["1528.jpg", "Arancio"],
         ["1526.jpg", "Arancio"],
         ["1529.jpg", "Arancio"],
         ["1638.jpg", "Viola"],
@@ -784,6 +783,23 @@
     },
     {
       "id": "p41",
+      "title": "Costume intero monospalla",
+      "price": 40,
+      "category": ["Swimwear"],
+      "desc": {
+        "Desc": "Costume intero a fantasia, con dettaglio cut-out e monospalla.",
+        "Materiale": "82% Polyestere 18% Elastane"
+      },
+      "sizes": ["S/M"],
+      "images": [
+        ["16522.jpg", "Maculato"],
+        ["1623.jpg", "Maculato"],
+        ["1619.jpg", "Maculato"],
+        ["1624.jpg", "Maculato"]
+      ]
+    },
+    {
+      "id": "p42",
       "title": "Bikini con spalline in strass",
       "price": 47.5,
       "category": ["Swimwear"],
@@ -804,7 +820,7 @@
       ]
     },
     {
-      "id": "p42",
+      "id": "p43",
       "title": "Costume intero con intreccio",
       "price": 42.5,
       "category": ["Swimwear"],
@@ -825,7 +841,7 @@
       ]
     },
     {
-      "id": "p43",
+      "id": "p44",
       "title": "Pareo lungo con volant",
       "price": 27.5,
       "category": ["Swimwear"],
@@ -838,11 +854,11 @@
         ["1662.jpg", "Nero"],
         ["1664.jpg", "Nero"],
         ["1663.jpg", "Nero"],
-        ["1661.jpg", "Nero"]
+        ["1661B.jpg", "Nero"]
       ]
     },
     {
-      "id": "p44",
+      "id": "p45",
       "title": "Borsa con maxi frangia",
       "price": 50,
       "category": ["Accessori"],
@@ -859,7 +875,7 @@
     },
 
     {
-      "id": "p45",
+      "id": "p46",
       "title": "Borsa con manici in legno",
       "price": 45,
       "category": ["Accessori"],
@@ -875,7 +891,7 @@
       ]
     },
     {
-      "id": "p46",
+      "id": "p47",
       "title": "Borsa con manici in legno",
       "price": 45,
       "category": ["Accessori"],
@@ -885,12 +901,13 @@
       },
       "sizes": ["Unica"],
       "images": [
+        ["1722.jpeg", "Ecrù intrecciato"],
         ["1629B.jpeg", "Ecrù intrecciato"],
         ["1631B.jpeg", "Ecrù intrecciato"]
       ]
     },
     {
-      "id": "p47",
+      "id": "p48",
       "title": "Borsa intrecciata con frange",
       "price": 45,
       "category": ["Accessori"],
@@ -909,7 +926,7 @@
       ]
     },
     {
-      "id": "p48",
+      "id": "p49",
       "title": "Cappello sfrangiato con nastro",
       "price": 30,
       "category": ["Accessori"],
@@ -926,7 +943,7 @@
       ]
     },
     {
-      "id": "p49",
+      "id": "p50",
       "title": "Cappello in paglia con decori",
       "price": 17.5,
       "category": ["Accessori"],
@@ -939,11 +956,15 @@
         ["1726B.jpeg", "Ecrù"],
         ["1647B.jpeg", "Ecrù"],
         ["1649B.jpeg", "Ecrù"],
-        ["1650B.jpeg", "Ecrù"]
+        ["1650B.jpeg", "Ecrù"],
+        ["1727B.jpeg", "Beige"],
+        ["1576B.jpeg", "Beige"],
+        ["1575B.jpeg", "Beige"],
+        ["1577B.jpeg", "Beige"]
       ]
     },
     {
-      "id": "p50",
+      "id": "p51",
       "title": "Cappello in paglia sfrangiato",
       "price": 30,
       "category": ["Accessori"],
@@ -960,7 +981,7 @@
       ]
     },
     {
-      "id": "p51",
+      "id": "p52",
       "title": "Texano intrecciato con cordino",
       "price": 20,
       "category": ["Accessori"],
