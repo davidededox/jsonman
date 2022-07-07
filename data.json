@@ -1000,6 +1000,22 @@
   ],
   "Utenti": [
     {
+      "order": [],
+      "discount": "Venti d'Estate",
+      "email": null,
+      "totalAmount": 0,
+      "ip": "185.30.65.251",
+      "city": "Lamporecchio",
+      "country": "IT",
+      "region": "Tuscany",
+      "longitude": 10.878,
+      "latitude": 43.8037,
+      "Actions": [
+        "Registrazione Effettuata 1657220562791",
+        "ARRIVED/products 1657220563156"
+      ],
+      "Agent": "MacIntel",
+      "personalID": "1656987660673",
       "id": 1
     }
   ]
