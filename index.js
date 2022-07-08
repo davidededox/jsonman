@@ -8,6 +8,6 @@ const port = process.env.PORT; // <== You can change the port
 server.use(middlewares);
 server.use(router);
 
-console.log("SERVER LISTENING ON PORT 3000");
+console.log("SERVER LISTENING ON PORT ");
 
 server.listen(port);
