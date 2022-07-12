@@ -173,7 +173,6 @@
       },
       "images": [
         ["55086.jpg", "Turchese"],
-
         ["55087.jpg", "Turchese"],
         ["55089.jpg", "Turchese"],
         ["55094.jpg", "Turchese"],
@@ -679,7 +678,6 @@
       },
       "sizes": ["S/M"]
     },
-
     {
       "id": "p36",
       "title": "Costume intero con cut-out",
@@ -712,10 +710,10 @@
       },
       "sizes": ["S/M"],
       "images": [
-        ["1527.jpg", "Arancio"],
-        ["1528.jpg", "Arancio"],
-        ["1526.jpg", "Arancio"],
-        ["1529.jpg", "Arancio"],
+        ["1627.jpg", "Arancio"],
+        ["1628.jpg", "Arancio"],
+        ["1626.jpg", "Arancio"],
+        ["1629.jpg", "Arancio"],
         ["1638.jpg", "Viola"],
         ["1640.jpg", "Viola"],
         ["1642.jpg", "Viola"],
@@ -739,8 +737,8 @@
         ["1592.jpg", "Verde Acqua glitter"],
         ["1574.jpg", "Viola glitter"],
         ["1572.jpg", "Viola glitter"],
-        ["1575.jpg", "viola glitter"],
-        ["1573.jpg", "viola glitter"]
+        ["1575.jpg", "Viola glitter"],
+        ["1573.jpg", "Viola glitter"]
       ]
     },
     {
@@ -872,7 +870,6 @@
         ["1654B.jpg", "Ecrù"]
       ]
     },
-
     {
       "id": "p46",
       "title": "Borsa con manici in legno",
@@ -1014,7 +1011,7 @@
         "ARRIVED/products 1657220563156"
       ],
       "Agent": "MacIntel",
-      "personalID": "1656987660673",
+      "personalID": "LUIGI",
       "id": 1
     }
   ]
